@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687ba825-ae9a-4a98-a18a-81827fabdf75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula1Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDecisao/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EstruturaDecisao/Exemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="687ba825-ae9a-4a98-a18a-81827fabdf75" name="Changes" comment="exemplos 1 2 3 aula 1">
+      <change afterPath="$PROJECT_DIR$/src/EstruturaDecisao/Exemplo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +32,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exemplo2">
-    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaDecisao.Exemplo1" />
+}</component>
+  <component name="RunManager" selected="Application.EstruturaRepeticao.Exercicio1">
+    <configuration name="EstruturaRepeticao.Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaRepeticao.Exercicio1" />
       <module name="Aula1Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturaDecisao.*" />
+          <option name="PATTERN" value="EstruturaRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaRepeticao.Exemplo1" />
+      <module name="Aula1Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,7 +67,33 @@
       </method>
     </configuration>
     <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturaDecisao.Exemplo2" />
+      <option name="MAIN_CLASS_NAME" value="EstruturaRepeticao.Exemplo2" />
+      <module name="Aula1Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaRepeticao.Exemplo3" />
+      <module name="Aula1Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstruturaRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturaDecisao.Exercicio1" />
       <module name="Aula1Java" />
       <extension name="coverage">
         <pattern>
@@ -73,18 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Aula1Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exemplo2" />
-        <item itemvalue="Application.Exemplo1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EstruturaRepeticao.Exercicio1" />
+        <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.EstruturaRepeticao.Exemplo3" />
+        <item itemvalue="Application.EstruturaRepeticao.Exemplo2" />
+        <item itemvalue="Application.EstruturaRepeticao.Exemplo1" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +124,30 @@
       <option name="presentableId" value="Default" />
       <updated>1695942033997</updated>
     </task>
+    <task id="LOCAL-00001" summary="exemplos 1 e 2 aula 1">
+      <created>1695948358050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695948358050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exemplos 1 e 2 aula 1" />
+    <MESSAGE value="exemplos 1 2 3 aula 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="exemplos 1 2 3 aula 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EstruturaDecisao/Exercicio1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
